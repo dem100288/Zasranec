@@ -1,0 +1,11 @@
+{
+  "name": "Zasranec",
+  "version": "1.0",
+  "gameTypes": "classic, 1v1",
+  "authors": "dem",
+  "description": "my",
+  "homepage": "",
+  "countryCodes": "ru",
+  "platform": ".Net 5.0",
+  "programmingLang": "C# 8.0"
+}
